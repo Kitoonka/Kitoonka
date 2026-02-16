@@ -6,7 +6,7 @@ I’m currently working on Django & Python web applications and full-stack proje
 - 🌱 I recently built a fully functional Task Manager built with Django to help users manage tasks efficiently. Users can create, update, delete, mark complete, and filter tasks by status or priority.Check it out[https://github.com/Kitoonka/django-taskmanager]
 - 👯 I’m looking to collaborate on Web Development, AI, and Data-driven projects.
 - 🤔 Exploring scalable system design
-
+https://stella-kitoonka-ynf6av9.gamma.site/
 
 
 
